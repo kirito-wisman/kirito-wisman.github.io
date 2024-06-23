@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kirito&#39;s blog</title>
+    <link>https://kirito-wisman.github.io/</link>
+    <description>Recent content on kirito&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Jun 2024 19:42:29 +0800</lastBuildDate>
+    <atom:link href="https://kirito-wisman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello, this is kirito&#39;s blog</title>
+      <link>https://kirito-wisman.github.io/posts/mypost/</link>
+      <pubDate>Sun, 23 Jun 2024 19:42:29 +0800</pubDate>
+      <guid>https://kirito-wisman.github.io/posts/mypost/</guid>
+      <description>hello, this is kirito&amp;rsquo;s blog&#xA;public static void main(String[] args) { System.out.println(&amp;#34;Hello kirito&amp;#34;); } </description>
+    </item>
+  </channel>
+</rss>
